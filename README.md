@@ -9,7 +9,7 @@ Only include public contact information you want displayed on your profile.
 -->
 
 <p align="center">
-  <img src="./assets/aurora-banner.svg" alt="amindev — animated blue and violet Aurora banner" width="960" />
+  <img src="./assets/aurora-banner.svg" alt="Amine Kebabe — animated blue and violet Aurora banner" width="960" />
 </p>
 
 <h1 align="center">Amine Kebab</h1>
