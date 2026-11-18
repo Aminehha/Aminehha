@@ -20,7 +20,7 @@ Only include public contact information you want displayed on your profile.
 
 <p align="center">
   <a href="#about">About</a> ·
-  <a href="#stack">Stack</a> ·
+  <a href="#skills">Skills</a> ·
   <a href="#selected-work">Work</a> ·
   <a href="#current-focus">Focus</a> ·
   <a href="#collaboration">Collaborate</a>
@@ -32,7 +32,16 @@ I'm **Amine Kebab**, also known as **amindev** — a full-stack developer with *
 
 I care about clear interfaces, simple design, and security awareness. My work brings together web development and computer science, with room to keep learning and collaborate.
 
-## Stack
+## Skills
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/skills-banner-mobile.svg" />
+    <img src="./assets/skills-banner.svg" alt="Skills and foundations: React, JavaScript, Node.js, MySQL, Java, C, Java OOP, and basic cybersecurity" width="960" />
+  </picture>
+</p>
+
+**Main web stack**
 
 <p align="center">
   <img src="./assets/stack-react.svg" alt="React" width="160" />
@@ -41,21 +50,49 @@ I care about clear interfaces, simple design, and security awareness. My work br
   <img src="./assets/stack-mysql.svg" alt="MySQL" width="160" />
 </p>
 
-**Additional knowledge:** Java, including object-oriented programming, and C.
+**Languages, principles, and security knowledge**
+
+<p align="center">
+  <img src="./assets/stack-java.svg" alt="Java" width="160" />
+  <img src="./assets/stack-c.svg" alt="C programming language" width="160" />
+  <img src="./assets/stack-java-oop.svg" alt="Object-oriented programming in Java" width="160" />
+  <img src="./assets/stack-cybersecurity.svg" alt="Cybersecurity — basic knowledge" width="160" />
+</p>
+
+My cybersecurity knowledge is **basic**. **Computer architecture** is a current learning focus.
 
 ## Selected work
 
-> ### Algomania
+> ### <img src="./assets/project-algomania.svg" alt="Algomania — university event website and event organization" width="960" />
 > **Event website & event organization**
 >
-> A computer science event connected to the **University of Béjaïa, Algeria**. I contributed to both the event website and the event's organization, with attention to clear design, simplicity, and basic security checks.
+> **Context:** a computer science event connected to the **University of Béjaïa, Algeria**, bringing together event information and computer science content.
+>
+> **My contribution:** website development and participation in organizing the event.
+>
+> **What I focused on**
+> - Presenting event and computer science information through a clear, simple interface.
+> - Creating an engaging visual design.
+> - Applying basic security checks to the website.
+>
+> **Work areas:** web design, web development, event organization, and security awareness.
 
-> ### Skillora
+> ### <img src="./assets/project-skillora.svg" alt="Skillora — learning and creator dashboard" width="960" />
 > **Learning & creator dashboard · Node.js + SQLite**
 >
-> A learning dashboard with account APIs and per-user tasks, drafts, and settings. Several content pages use demo data.
+> **Purpose:** a dashboard for learning and creator activity, with a Node.js backend, JSON APIs, and SQLite persistence.
 >
-> The interface adapts an **Elzero Web School** course layout.
+> **Implemented in the code**
+> - **Accounts:** registration, sign-in, sign-out, and server-side sessions.
+> - **Tasks:** per-user listings, completion toggles, and deletion.
+> - **Drafts and preferences:** saving drafts, updating profile names, and choosing dashboard widget visibility.
+> - **Data separation:** user-specific queries and persistent storage for accounts, sessions, tasks, and drafts.
+>
+> **Security features in the code:** scrypt password hashing, session cookies, CSRF checks, request validation, rate limiting, and parameterized SQL.
+>
+> **Frontend:** HTML, CSS, and JavaScript. The interface adapts an **Elzero Web School** course layout.
+>
+> **Prototype scope:** content areas such as courses, projects, friends, and files currently use demo views.
 
 <!--
 PROJECT LINKS
