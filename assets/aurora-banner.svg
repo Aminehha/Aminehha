@@ -53,7 +53,7 @@
       <path d="M-80 28 C123 171 262 -46 471 71 S770 241 1030 9 L1050 -24 H-80Z" fill="url(#violet)"/>
       <path d="M-40 42 C153 170 284 -10 487 89 S785 217 1010 31" fill="none" stroke="#c2a9ff" stroke-width="1" opacity=".23"/>
     </g>
-    <text x="480" y="148" text-anchor="middle" fill="#f4f7ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="92" font-weight="750" letter-spacing="-4">amindev</text>
+    <text x="480" y="148" text-anchor="middle" fill="#f4f7ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="92" font-weight="750" letter-spacing="-4">Amine Kebabe</text>
     <rect x="430" y="179" width="100" height="3" rx="1.5" fill="url(#edge)" opacity=".8"/>
   </g>
   <rect x=".75" y=".75" width="958.5" height="238.5" rx="27.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
