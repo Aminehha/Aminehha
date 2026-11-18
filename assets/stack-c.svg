@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="60" viewBox="0 0 160 60" role="img" aria-labelledby="title description">
+<title id="title">C — Language</title>
+<desc id="description">A button-style skill badge with a representative icon.</desc>
+<defs><linearGradient id="surface" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#182440"/><stop offset="1" stop-color="#10182b"/></linearGradient></defs>
+<rect x="1" y="4" width="158" height="55" rx="12" fill="#050a14" opacity=".8"/>
+<rect x=".75" y=".75" width="158.5" height="55.5" rx="11.25" fill="url(#surface)" stroke="#344562" stroke-width="1.5"/>
+<path d="M13 2.5h134" fill="none" stroke="#82aaff" stroke-opacity=".35" stroke-linecap="round"/>
+<g transform="translate(12 16)"><path d="M12 1.5 22 7v10l-10 5.5L2 17V7Z" fill="#82aaff" fill-opacity=".14" stroke="#82aaff" stroke-width="1.6"/><text x="12" y="18" text-anchor="middle" fill="#e5eeff" font-family="Arial,sans-serif" font-size="17" font-weight="800">C</text></g>
+<text x="46" y="24" fill="#f3f6ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">C</text>
+<text x="46" y="43" fill="#b3c2d9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11.5">Language</text>
+</svg>

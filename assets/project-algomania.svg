@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="116" viewBox="0 0 960 116" role="img" aria-labelledby="title description">
+<title id="title">Algomania</title>
+<desc id="description">University computer science event: website development and event organization.</desc>
+<defs><linearGradient id="edge"><stop stop-color="#4f8cff" stop-opacity=".55"/><stop offset="1" stop-color="#a78bfa" stop-opacity=".55"/></linearGradient><linearGradient id="light"><stop stop-color="#4f8cff" stop-opacity="0"/><stop offset="1" stop-color="#a78bfa" stop-opacity=".15"/></linearGradient></defs>
+<rect x=".75" y=".75" width="958.5" height="114.5" rx="18" fill="#0b1020" stroke="url(#edge)" stroke-width="1.5"/>
+<path d="M480 115Q700 35 959 15V99Q740 125 480 115Z" fill="url(#light)"/>
+<text x="32" y="80" fill="#f3f6ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-1">Algomania</text>
+<g transform="translate(858 26)"><g fill="none" stroke="#a78bfa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="8" width="57" height="50" rx="9"/><path d="M3 22h57M17 2v13M46 2v13M22 33l-8 7 8 7M41 33l8 7-8 7"/></g></g>
+</svg>
